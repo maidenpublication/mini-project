@@ -1,0 +1,6 @@
+{
+  "name": "FocusFlow - Personal Productivity Dashboard",
+  "description": "Minimalist vanilla JavaScript productivity dashboard featuring smart greetings, customizable Pomodoro focus timer, interactive to do list with duplicate prevention & sorting, quick links, and light/dark theme switching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
